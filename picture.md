@@ -1,6 +1,0 @@
-![热力图](image.png)
-![柱状图-升降对比](image-1.png)
-![柱状图-展示](image-2.png)
-![甘特图](image-3.png)
-![雷达图-对比](image-4.png)
-![折线图](image-5.png)
